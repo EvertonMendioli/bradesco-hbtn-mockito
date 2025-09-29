@@ -10,7 +10,8 @@ public class BancoService {
 
 
     public double consultarSaldo(String numeroConta) {
-        //implemente aqui
+        
+        return 0;
     }
 
 
